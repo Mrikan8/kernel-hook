@@ -1,7 +1,7 @@
 #include <wdf.h>
 #include <ntstrsafe.h>
 
-#define DEVICE_NAME "MyKernelDriver"
+#define DEVICE_NAME "external"
 
 typedef struct _DEVICE_EXTENSION {
     WDFDEVICE Device;
