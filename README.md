@@ -6,3 +6,5 @@ you need to have installed wdk https://learn.microsoft.com/en-us/windows-hardwar
 
 create just kernel project and paste it. You need to build it and try it
 
+use kdmapper for hooking, driver testing in windows needs to be on
+
